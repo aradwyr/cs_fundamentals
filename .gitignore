@@ -1,4 +1,9 @@
+src/.idea/*
 .idea/*
 *.DS_Store
 out/
 *.iml
+.gradle/
+gradle/
+gradlew
+gradlew.bat

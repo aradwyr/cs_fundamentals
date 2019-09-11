@@ -1,12 +1,13 @@
 # CS Fundamentals in Java
 
-Note: From Leetcode 
-
 ### Arrays
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 
 ### Strings
 + Minimum Window Substring [Question](https://leetcode.com/problems/minimum-window-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MinWindowSubstring.java)
+
+### Dynamic Programming
++ Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
 
 ### Recursion/Backtracking/Exhaustive Search
 + Combinations [Question](https://leetcode.com/problems/combinations/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Combinations.java)
@@ -18,3 +19,8 @@ Note: From Leetcode
 
 ### Binary Search 
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
+
+
+
+
+Source: Leetcode 
