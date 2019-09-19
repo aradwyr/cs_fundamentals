@@ -4,7 +4,11 @@
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 
 ### Strings
++ Longest Common Prefix [Question](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestCommonPrefix.java)
 + Minimum Window Substring [Question](https://leetcode.com/problems/minimum-window-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MinWindowSubstring.java)
+
+### Sorting
++ Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
 
 ### Dynamic Programming
 + Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
