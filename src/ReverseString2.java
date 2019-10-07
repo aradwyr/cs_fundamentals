@@ -39,10 +39,10 @@ public class ReverseString2 {
 }
 
 // Long-form of above
-//        while (start < end){
-//            char tmp = arr[start];
-//            arr[start] = arr[end];
-//            arr[end] = tmp;
-//            start++;
-//            end--;
+//        while (left < right){
+//            char tmp = arr[left];
+//            arr[left] = arr[right];
+//            arr[right] = tmp;
+//            left++;
+//            right--;
 //        }
