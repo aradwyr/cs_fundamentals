@@ -1,12 +1,15 @@
 # CS Fundamentals in Java
 
-### Arrays
-+ Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
-
 ### Strings
 + Longest Common Prefix [Question](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestCommonPrefix.java)
 + Minimum Window Substring [Question](https://leetcode.com/problems/minimum-window-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MinWindowSubstring.java)
 + Valid Palindrome [Question](https://leetcode.com/problems/valid-palindrome/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ValidPalindrome.java)
++ Reverse String [Question](https://leetcode.com/problems/reverse-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString.java)
++ Reverse String II [Question](https://leetcode.com/problems/reverse-string-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString2.java)
++ Reverse String III [Question](https://leetcode.com/problems/reverse-words-in-a-string-iii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString3.java)
+
+### Arrays
++ Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
@@ -28,4 +31,4 @@
 
 
 
-Source: Leetcode 
+###### Source: Leetcode 
