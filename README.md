@@ -7,6 +7,7 @@
 + Reverse String [Question](https://leetcode.com/problems/reverse-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString.java)
 + Reverse String II [Question](https://leetcode.com/problems/reverse-string-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString2.java)
 + Reverse String III [Question](https://leetcode.com/problems/reverse-words-in-a-string-iii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString3.java)
++ Reverse Vowels [Question](https://leetcode.com/problems/reverse-vowels-of-a-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseVowels.java)
 
 ### Arrays
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
