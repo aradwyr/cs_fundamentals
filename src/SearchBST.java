@@ -18,6 +18,8 @@
  *       2
  *      / \
  *     1   3
+ *
+ * Complexity: O(log n) avg time, O(n) worst time, O(1) space
  */
 
 
