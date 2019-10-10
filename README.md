@@ -13,6 +13,10 @@
 ### Arrays
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 
+### Trees
++ Search in a Binary Search Tree [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SearchBST.java)
++ First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
+
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
 
@@ -27,9 +31,8 @@
 ### Bitwise Operations
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 
-### Binary Search 
-+ First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
-
+### Regular Expressions 
++ RegEx Matching [Question](https://leetcode.com/problems/regular-expression-matching/), [Solution]()
 
 
 
