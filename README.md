@@ -15,8 +15,10 @@
 
 ### Trees
 + Search in a Binary Search Tree [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SearchBST.java)
-+ Insert into a Binary Search Tree [Question](https://leetcode.com/problems/insert-into-a-binary-search-tree/), [Solution]()
++ Insert into a Binary Search Tree [Question](https://leetcode.com/problems/insert-into-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/InsertBST.java)
 + Closest Binary Search Tree Value [Question](https://leetcode.com/problems/closest-binary-search-tree-value/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ClosestValBST.java)
++ Closest Binary Search Tree Value II [Question](https://leetcode.com/problems/closest-binary-search-tree-value-ii/), [Solution]()
++ Binary Tree Inorder Traversal [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/), [Solution]()
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 
 ### Sorting
