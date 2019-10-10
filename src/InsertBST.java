@@ -57,13 +57,13 @@ public class InsertBST {
                     node.right = new TreeNode(val);
                     return root;
                 } else { node = node.right; }
-            } else {
+            } else {                        // go into left subtree
                 if (node.left == null) {
                     node.left = new TreeNode(val);
                     return root;
                 } else { node = node.left; }
             }
         }
-        return new TreeNode(val);
+        return new TreeNode(val);          // covers inserting into empty BST
     }
 }
