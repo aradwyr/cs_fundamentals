@@ -7,7 +7,7 @@
  * Note that there may exist multiple valid ways for the insertion, as long as the tree remains a BST after insertion.
  * You can return any of them.
  *
- * e.g. IN: [4,2,7,1,3] and 5, OUT: 4 or 5
+ * e.g. IN: [4,2,7,1,3] and 5, OUT: [4,2,7,1,3,5]
  * Given the tree:
  *         4
  *        / \
