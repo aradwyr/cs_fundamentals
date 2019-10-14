@@ -19,6 +19,8 @@
 + Closest Binary Search Tree Value [Question](https://leetcode.com/problems/closest-binary-search-tree-value/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ClosestValBST.java)
 + Closest Binary Search Tree Value II [Question](https://leetcode.com/problems/closest-binary-search-tree-value-ii/), [Solution]()
 + Binary Tree Inorder Traversal [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/InorderBST.java)
++ Binary Tree Preorder Traversal [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PreorderBST.java)
++ Binary Tree Postorder Traversal [Question](https://leetcode.com/problems/binary-tree-postorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PostorderBST.java)
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 
 ### Sorting

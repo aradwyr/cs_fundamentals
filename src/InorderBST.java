@@ -13,7 +13,9 @@
  *
  * Complexity: O(n) time and space
  *
- * Strategy: left, root, right
+ * Depth First Search(DFS) traversal pathways (Inorder, Preorder, and Postorder).
+ *
+ * Inorder strategy: Left -> Root -> Right
  */
 
 import java.util.ArrayList;
@@ -56,6 +58,6 @@ class InorderBST {
         root.right = new TreeNode(22);
         root.right.left = new TreeNode(18);
         root.right.right = new TreeNode(24);
-        System.out.println(new InorderBST().inorderTraversal(root));
+        System.out.println("Inorder: " + new InorderBST().inorderTraversal(root));
     }
 }
