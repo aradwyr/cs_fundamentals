@@ -41,7 +41,7 @@ public class PostorderBST {
 
         while (!stack.isEmpty()) {
             TreeNode node = stack.pollLast();
-            output.addFirst(node.val);
+            output.addFirst(node.val);                   // constant insert to front
 
             if (node.left != null) { stack.add(node.left); }
 
@@ -63,3 +63,21 @@ public class PostorderBST {
     }
 
 }
+
+
+/**
+                           15
+                          /  \
+                       10     22
+                      / \    /  \
+                    4   12  18  24
+
+ iteration | node = stack.pollLast |     output                  |   stack
+        1  |          15           | [15]                        |  [10, 22]
+        2  |          22           | [22, 15]                    |  [10, 18, 24]
+        3  |          24           | [24, 22, 15]                |  [10, 18]
+        4  |          18           | [18, 24, 22, 15]            |  [10]
+        5  |          10           | [10, 18, 24, 22, 15]        |  [4, 12]
+        6  |          12           | [12, 10, 18, 24, 22, 15]    |  [4]
+        7  |          4            | [4, 12, 10, 18, 24, 22, 15] |  []
+ */
