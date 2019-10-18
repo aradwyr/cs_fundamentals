@@ -21,6 +21,7 @@
 + Binary Tree Inorder Traversal [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/InorderBST.java)
 + Binary Tree Preorder Traversal [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PreorderBST.java)
 + Binary Tree Postorder Traversal [Question](https://leetcode.com/problems/binary-tree-postorder-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PostorderBST.java)
++ Binary Tree Level Order Traversal [Question](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LevelOrderBST.java)
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 
 ### Sorting

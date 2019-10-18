@@ -29,12 +29,12 @@ class InorderBST {
         TreeNode left;
         TreeNode right;
 
-        TreeNode (int x) { val = x; }
+        TreeNode(int x) { val = x; }
     }
 
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
+        List<Integer> output = new ArrayList<>();
 
         TreeNode curr = root;
 
@@ -44,10 +44,10 @@ class InorderBST {
                 curr = curr.left;
             }
             curr = stack.pop();
-            result.add(curr.val);
+            output.add(curr.val);
             curr = curr.right;
         }
-        return result;
+        return output;
     }
 
     public static void main(String[] args) {

@@ -27,7 +27,7 @@ public class PreorderBST {
         TreeNode left;
         TreeNode right;
 
-        TreeNode (int x) { val = x; }
+        TreeNode(int x) { val = x; }
     }
 
     public List<Integer> preorderTraversal(TreeNode root) {
