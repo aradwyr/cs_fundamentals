@@ -12,6 +12,7 @@
 
 ### Arrays
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
++ Intersection of Two Arrays II [Question](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/IntersectArrays2.java)
 
 ### Trees
 + Search in a Binary Search Tree [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SearchBST.java)
