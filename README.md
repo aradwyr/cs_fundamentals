@@ -26,6 +26,9 @@
 + All Nodes Distance K in Binary Tree [Question](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AllNodesDistanceK.java)
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 
+### Stack 
++ Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
+
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
 
