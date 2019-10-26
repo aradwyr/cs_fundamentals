@@ -11,6 +11,7 @@
 + Remove Vowels [Question](https://leetcode.com/problems/remove-vowels-from-a-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveVowels.java)
 
 ### Arrays
++ Third Maximum Number [Question](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThirdMax.java)
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 + Intersection of Two Arrays II [Question](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/IntersectArrays2.java)
 
@@ -39,12 +40,13 @@
 + Combinations [Question](https://leetcode.com/problems/combinations/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Combinations.java)
 + Subsets [Question](https://leetcode.com/problems/subsets/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Subsets.java)
 + Word Search [Question](https://leetcode.com/problems/word-search/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/WordSearch.java)
++ Remove Invalid Parentheses [Question](https://leetcode.com/problems/remove-invalid-parentheses/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveInvalidParens.java)
 
 ### Bitwise Operations
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 
 ### Regular Expressions 
-+ RegEx Matching [Question](https://leetcode.com/problems/regular-expression-matching/), [Solution]()
++ RegEx Matching [Question](https://leetcode.com/problems/regular-expression-matching/)
 
 
 

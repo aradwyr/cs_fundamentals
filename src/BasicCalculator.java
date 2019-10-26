@@ -36,7 +36,7 @@ public class BasicCalculator {
                 result += sign * operand;
                 System.out.println("post-addition: " + result);
                 sign = 1;
-                operand = 0;
+                operand = 0;                            // clear operand since progress is contained in result var
             }
 
             else if (ch == '-') {
