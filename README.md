@@ -9,6 +9,7 @@
 + Reverse String III [Question](https://leetcode.com/problems/reverse-words-in-a-string-iii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseString3.java)
 + Reverse Vowels [Question](https://leetcode.com/problems/reverse-vowels-of-a-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseVowels.java)
 + Remove Vowels [Question](https://leetcode.com/problems/remove-vowels-from-a-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveVowels.java)
++ Find Common Characters [Question](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CommonChars.java)
 
 ### Arrays
 + Third Maximum Number [Question](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThirdMax.java)
