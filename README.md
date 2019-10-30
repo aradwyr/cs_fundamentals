@@ -12,6 +12,7 @@
 + Find Common Characters [Question](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CommonChars.java)
 
 ### Arrays
++ Single Element in Sorted Array [Question](https://leetcode.com/problems/single-element-in-a-sorted-array/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/singleNonDuplicate.java)
 + Third Maximum Number [Question](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThirdMax.java)
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
 + Intersection of Two Arrays II [Question](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/IntersectArrays2.java)
@@ -28,6 +29,9 @@
 + All Nodes Distance K in Binary Tree [Question](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AllNodesDistanceK.java)
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 + Recover Binary Search Tree [Question](https://leetcode.com/problems/recover-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RecoverBST.java)
+
+### Linked Lists
++ Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution]()
 
 ### Stack 
 + Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
