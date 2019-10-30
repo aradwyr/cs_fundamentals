@@ -27,6 +27,7 @@
 + Binary Tree Level Order Traversal [Question](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LevelOrderBST.java)
 + All Nodes Distance K in Binary Tree [Question](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AllNodesDistanceK.java)
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
++ Recover Binary Search Tree [Question](https://leetcode.com/problems/recover-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RecoverBST.java)
 
 ### Stack 
 + Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
