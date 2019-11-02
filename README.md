@@ -31,7 +31,8 @@
 + Recover Binary Search Tree [Question](https://leetcode.com/problems/recover-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RecoverBST.java)
 
 ### Linked Lists
-+ Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution]()
++ Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AddTwoLL.java)
++ Reverse Linked List [Question](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseLL.java)
 
 ### Stack 
 + Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
