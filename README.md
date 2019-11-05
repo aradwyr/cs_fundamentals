@@ -41,6 +41,10 @@
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
 
+### Math, Bitwise Operations
++ Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
++ Power of Two [Question](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PowerOfTwo.java)
+
 ### Dynamic Programming, Recursion/Backtracking/Exhaustive Search
 + Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
 + Word Break II [Question](https://leetcode.com/problems/word-break-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/WordBreak.java)
@@ -48,9 +52,6 @@
 + Subsets [Question](https://leetcode.com/problems/subsets/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Subsets.java)
 + Word Search [Question](https://leetcode.com/problems/word-search/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/WordSearch.java)
 + Remove Invalid Parentheses [Question](https://leetcode.com/problems/remove-invalid-parentheses/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveInvalidParens.java)
-
-### Bitwise Operations
-+ Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 
 ### Regular Expressions 
 + RegEx Matching [Question](https://leetcode.com/problems/regular-expression-matching/)
