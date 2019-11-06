@@ -9,6 +9,8 @@
  * IN: [-2, 3, -4]         OUT: 24
  *
  * Complexity: O(n) time and O(1) space
+ *
+ * tags: dynamic programming, greedy
  */
 
 public class MaxProdSubarray {

@@ -7,6 +7,8 @@
  * IN: [-2,1,-3,4,-1,2,1,-5,4]      OUT: 6               // [4,-1,2,1] has the largest sum of 6
  *
  * Complexity: O(n) time and O(1) space
+ *
+ * tags: dynamic programming, greedy
  */
 
 public class MaxSumSubarray {

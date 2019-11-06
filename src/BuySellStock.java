@@ -12,6 +12,8 @@
  * IN: [7,6,4,3,1]          OUT: 0              // no max profit
  *
  * Complexity: O(n) time and O(1) space
+ *
+ * tags: dynamic programming, greedy
  */
 
 public class BuySellStock {

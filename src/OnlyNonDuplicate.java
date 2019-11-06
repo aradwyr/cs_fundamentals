@@ -11,12 +11,12 @@
  * Complexity: O(logn) time and O(1) space
  */
 
-public class singleNonDuplicate {
+public class OnlyNonDuplicate {
     public static void main(String[] args) {
         int[] arr = {1, 1, 2, 3, 3, 4, 4, 8, 8};
         int[] arr2 = {3, 3, 7, 7, 10, 11, 11};
-        System.out.println(new singleNonDuplicate().findNonDuplicate(arr));
-        System.out.println(new singleNonDuplicate().findNonDuplicate(arr2));
+        System.out.println(new OnlyNonDuplicate().findNonDuplicate(arr));
+        System.out.println(new OnlyNonDuplicate().findNonDuplicate(arr2));
     }
 
     public int findNonDuplicate(int[] nums) {
