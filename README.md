@@ -19,7 +19,7 @@
 + Intersection of Two Arrays II [Question](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/IntersectArrays2.java)
 + Maximum Subarray [Question](https://leetcode.com/problems/maximum-subarray/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MaxSumSubarray.java)
 + Maximum Product Subarray [Question](https://leetcode.com/problems/maximum-product-subarray/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MaxProdSubarray.java)
-+ Best Time to Buy and Sell Stock [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](ttps://github.com/sbd/cs_fundamentals/blob/master/src/BuySellStock.java)
++ Best Time to Buy and Sell Stock [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BuySellStock.java)
 
 ### Trees
 + Search in a Binary Search Tree [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SearchBST.java)
