@@ -40,6 +40,7 @@
 
 ### Stack 
 + Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
++ Sum of Subarray Minimums [Question](https://leetcode.com/problems/sum-of-subarray-minimums/)
 
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
@@ -47,6 +48,9 @@
 ### Math, Bitwise Operations
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 + Power of Two [Question](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PowerOfTwo.java)
+
+### Graphs
++ Clone Graph [Question](https://leetcode.com/problems/clone-graph/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CloneGraph.java)
 
 ### Dynamic Programming, Recursion
 + Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
