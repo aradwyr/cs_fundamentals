@@ -13,6 +13,7 @@
 + Most Common Word [Question](https://leetcode.com/problems/most-common-word/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CommonWord.java)
 
 ### Arrays
++ Two Sum [Question](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/TwoSum.java)
 + Single Element in Sorted Array [Question](https://leetcode.com/problems/single-element-in-a-sorted-array/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/OnlyNonDuplicate.java)
 + Third Maximum Number [Question](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThirdMax.java)
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
@@ -48,6 +49,7 @@
 ### Math, Bitwise Operations
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 + Power of Two [Question](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PowerOfTwo.java)
++ Reverse Integer [Question](https://leetcode.com/problems/reverse-integer/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseInt.java)
 
 ### Graphs
 + Clone Graph [Question](https://leetcode.com/problems/clone-graph/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CloneGraph.java)
