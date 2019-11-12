@@ -35,6 +35,9 @@
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 + Recover Binary Search Tree [Question](https://leetcode.com/problems/recover-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RecoverBST.java)
 
+### Trie
++ Implement Trie (Prefix Tree) [Question](https://leetcode.com/problems/implement-trie-prefix-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Trie.java)
+
 ### Linked Lists
 + Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AddTwoLL.java)
 + Reverse Linked List [Question](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseLL.java)
