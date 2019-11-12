@@ -35,7 +35,7 @@
 + First Bad Version [Question](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/FirstBadVersion.java)
 + Recover Binary Search Tree [Question](https://leetcode.com/problems/recover-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RecoverBST.java)
 
-### Trie
+### Tries
 + Implement Trie (Prefix Tree) [Question](https://leetcode.com/problems/implement-trie-prefix-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Trie.java)
 
 ### Linked Lists
@@ -43,9 +43,12 @@
 + Reverse Linked List [Question](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseLL.java)
 + Remove Nth Node from End of List [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveNthNodeLL.java)
 
-### Stack 
+### Stacks
 + Basic Calculator [Question](https://leetcode.com/problems/basic-calculator/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BasicCalculator.java)
 + Sum of Subarray Minimums [Question](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+### Graphs
++ Clone Graph [Question](https://leetcode.com/problems/clone-graph/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CloneGraph.java)
 
 ### Sorting
 + Longest Repeating Substring [Question](https://leetcode.com/problems/longest-repeating-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestRepeatingSubstring.java)
@@ -54,9 +57,6 @@
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 + Power of Two [Question](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PowerOfTwo.java)
 + Reverse Integer [Question](https://leetcode.com/problems/reverse-integer/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseInt.java)
-
-### Graphs
-+ Clone Graph [Question](https://leetcode.com/problems/clone-graph/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CloneGraph.java)
 
 ### Dynamic Programming, Recursion
 + Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
