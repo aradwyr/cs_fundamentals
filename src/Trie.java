@@ -7,15 +7,12 @@
  *
  * e.g.
  * Trie trie = new Trie();
- *
  * trie.insert("apple");
  * trie.search("apple");   // returns true
  * trie.search("app");     // returns false
  * trie.startsWith("app"); // returns true
- * trie.insert("app");
- * trie.search("app");     // returns true
  *
- * Big Picture Context: Tries useful in various applications, such as autocomplete, spell checker, IP routing (longest prefix matching), etc.
+ * Big Picture: Tries useful in various applications like autocomplete, spell checker, IP routing (longest prefix matching), etc.
  *
  * N.B. Trie (pronounced as 'try') is a fixed tree data structure that outperforms hash tables -- hash tables do have
  * constant O(1) time complexity for key lookup but are inefficient wrt finding all keys with common prefix. Also,
@@ -32,10 +29,9 @@ public class Trie {
 
     public static class TrieNode {
         private TrieNode[] links;
-        private final int R = 26;
-        private boolean isEnd;                                                                  // init as false
+        private boolean isEnd;
 
-        public TrieNode() { links = new TrieNode[26]; }
+        public TrieNode() { links = new TrieNode[26]; }                                             // a-z length = 26
 
         public boolean containsKey(char c) { return links[c - 'a'] != null; }
 
@@ -55,9 +51,8 @@ public class Trie {
     public static void main(String[] args) {
         Trie t = new Trie();
         t.insert("apple");
-        System.out.println(t.search("app"));
-        System.out.println(t.startsWith("app"));
-
+        System.out.println(t.search("app"));             // false
+        System.out.println(t.startsWith("app"));               // true
     }
 
     public void insert(String word) {
@@ -73,7 +68,7 @@ public class Trie {
         node.setEnd();
     }
 
-    private TrieNode prefixSearch(String word) {                                 // Search entire or partial Trie
+    private TrieNode prefixSearch(String word) {                                 // search entire or partial trie
         TrieNode node = root;
 
         for (int i = 0; i < word.length(); i++) {
@@ -87,7 +82,7 @@ public class Trie {
 
     public boolean search(String word) {
         TrieNode node = prefixSearch(word);
-        return node != null && node.isEnd();                                    // returns true if the word is in Trie
+        return node != null && node.isEnd();                                    // returns true if the word is in trie
     }
 
     public boolean startsWith(String prefix) {
