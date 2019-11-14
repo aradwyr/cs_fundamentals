@@ -21,6 +21,7 @@
 + Maximum Subarray [Question](https://leetcode.com/problems/maximum-subarray/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MaxSumSubarray.java)
 + Maximum Product Subarray [Question](https://leetcode.com/problems/maximum-product-subarray/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MaxProdSubarray.java)
 + Best Time to Buy and Sell Stock [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/BuySellStock.java)
++ Longest Consecutive Sequence [Question](https://leetcode.com/problems/longest-consecutive-sequence/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestConseqSeq.java)
 
 ### Trees
 + Search in a Binary Search Tree [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SearchBST.java)
