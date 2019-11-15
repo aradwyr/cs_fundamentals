@@ -26,7 +26,7 @@ public class LongestConsecSeq {
                 int currNum = s;
                 int currStreak = 1;
 
-                while (set.contains(currNum + 1)) {
+                while (set.contains(currNum + 1)) {                                     // O(1) lookup for HashSets
                     currNum += 1;
                     currStreak += 1;
                 }

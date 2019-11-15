@@ -38,6 +38,7 @@
 
 ### Tries
 + Implement Trie (Prefix Tree) [Question](https://leetcode.com/problems/implement-trie-prefix-tree/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/Trie.java)
++ Replace Words [Question](https://leetcode.com/problems/replace-words/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReplaceWords.java)
 
 ### Linked Lists
 + Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AddTwoLL.java)
