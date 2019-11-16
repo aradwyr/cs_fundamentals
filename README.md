@@ -14,6 +14,7 @@
 
 ### Arrays
 + Two Sum [Question](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/TwoSum.java)
++ 3Sum Smaller [Question](https://leetcode.com/problems/3sum-smaller/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThreeSumSmaller.java)
 + Single Element in Sorted Array [Question](https://leetcode.com/problems/single-element-in-a-sorted-array/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/OnlyNonDuplicate.java)
 + Third Maximum Number [Question](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ThirdMax.java)
 + Remove Duplicates from Sorted Array II [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveKDuplicates.java)
