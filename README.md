@@ -60,6 +60,7 @@
 + Sum of Two Integers [Question](https://leetcode.com/problems/sum-of-two-integers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/SumOfInts.java)
 + Power of Two [Question](https://leetcode.com/problems/power-of-two/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PowerOfTwo.java)
 + Reverse Integer [Question](https://leetcode.com/problems/reverse-integer/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseInt.java)
++ Multiply Strings [Question](https://leetcode.com/problems/multiply-strings/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MultiplyStrings.java)
 
 ### Dynamic Programming, Recursion
 + Nth Tribonacci Number [Question](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/NthTribonacci.java)
