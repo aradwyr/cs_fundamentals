@@ -42,6 +42,7 @@
 + Replace Words [Question](https://leetcode.com/problems/replace-words/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReplaceWords.java)
 
 ### Linked Lists
++ Palindrome Linked List [Question](https://leetcode.com/problems/palindrome-linked-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/PalindromeLL.java)
 + Add Two Numbers [Question](https://leetcode.com/problems/add-two-numbers/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/AddTwoLL.java)
 + Reverse Linked List [Question](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ReverseLL.java)
 + Remove Nth Node from End of List [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveNthNodeLL.java)
