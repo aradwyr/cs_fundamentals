@@ -1,6 +1,7 @@
 # CS Fundamentals in Java
 
 ### Strings
++ Repeated DNA Sequence [Question](https://leetcode.com/problems/repeated-dna-sequences/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RepeatedDNASeq.java)
 + Longest Common Prefix [Question](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongestCommonPrefix.java)
 + Minimum Window Substring [Question](https://leetcode.com/problems/minimum-window-substring/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/MinWindowSubstring.java)
 + Valid Palindrome [Question](https://leetcode.com/problems/valid-palindrome/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/ValidPalindrome.java)
