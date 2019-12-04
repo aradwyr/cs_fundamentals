@@ -25,7 +25,7 @@ public class LongPressed {
             if (i < name.length() && name.charAt(i) == typed.charAt(j)) { i++; }
             else if (i > 0 && typed.charAt(j) != name.charAt(i - 1)) { return false; }
         }
-        return (i == name.length()) ? true : false;
+        return i == name.length();
     }
 
     public static void main(String[] args) {
