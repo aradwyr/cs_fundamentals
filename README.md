@@ -12,6 +12,7 @@
 + Remove Vowels [Question](https://leetcode.com/problems/remove-vowels-from-a-string/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/RemoveVowels.java)
 + Find Common Characters [Question](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CommonChars.java)
 + Most Common Word [Question](https://leetcode.com/problems/most-common-word/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/CommonWord.java)
++ Long Pressed Name [Question](https://leetcode.com/problems/long-pressed-name/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/LongPressed.java)
 
 ### Arrays
 + Two Sum [Question](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/sbd/cs_fundamentals/blob/master/src/TwoSum.java)
